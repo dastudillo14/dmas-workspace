@@ -1,10 +1,11 @@
 {
   "name": "dmas-side-menu",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "keywords": ["do-not-user","demo","dev-task","fernando-herrera-angular-pro"],
   "author": {
     "name": "Dantee Astudillo"
   },
+  "license":"MIT",
   "repository": {
     "url": "https://github.com/dastudillo14/dmas-workspace"
   },
