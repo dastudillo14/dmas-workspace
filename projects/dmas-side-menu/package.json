@@ -1,9 +1,15 @@
 {
   "name": "dmas-side-menu",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": ["do-not-user","demo","dev-task","fernando-herrera-angular-pro"],
   "author": {
     "name": "Dantee Astudillo"
+  },
+  "repository": {
+    "url": "https://github.com/dastudillo14/dmas-workspace"
+  },
+  "bugs": {
+    "url": "https://github.com/dastudillo14/dmas-workspace/issues"
   },
   "peerDependencies": {
     "@angular/common": "^19.2.0",
