@@ -1,0 +1,16 @@
+{
+  "name": "dmas-side-menu",
+  "version": "0.0.2",
+  "keywords": ["do-not-user","demo","dev-task","fernando-herrera-angular-pro"],
+  "author": {
+    "name": "Dantee Astudillo"
+  },
+  "peerDependencies": {
+    "@angular/common": "^19.2.0",
+    "@angular/core": "^19.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}

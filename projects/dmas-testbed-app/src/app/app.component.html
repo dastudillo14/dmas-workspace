@@ -1,0 +1,6 @@
+<h1 class="text-3xl font-bold underline">
+  Hello world!
+</h1>
+
+<lib-dmas-side-menu [titleColor]="myTitleColor" [isAuthenticated]="isAuthenticated()"
+  (onSignIn)="isAuthenticated.set(true)" (onSignOut)="isAuthenticated.set(false)"></lib-dmas-side-menu>
