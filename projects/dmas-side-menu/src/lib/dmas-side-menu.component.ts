@@ -15,7 +15,13 @@ export enum TitleColor {
   styles: ``
 })
 export class DmasSideMenuComponent {
+
   public isAuthenticated = input(false);
+  
+  public title = input<string>('Company');
+  
+  public subTitle = input<string>('Corp');
+
   public titleColor = input<TitleColor>(TitleColor.purple);
 
   public onSignOut = output();
